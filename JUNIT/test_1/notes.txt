@@ -1,0 +1,12 @@
+Things to consider when testing unit test
+[1] One assertion per test or single concept by a test.
+[2] Test one single object at a time.
+[3] Choose meaningful test method names (For easy to understand the test )
+
+
+Apply FIRST principle 
+- Make it FAST 
+- Make sure that the subject to test can runs INDEPENDENTLY
+- Make sure that the following test are valid for REPETITIVE testing/ regression testing
+- Make sure it is SELF-VALIDATING
+- MAke sure it will be practical and can meet the estimated deadline/TIMELY.
